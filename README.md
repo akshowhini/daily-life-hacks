@@ -8,7 +8,8 @@ document.querySelectorAll("#bamdAvailableDeals div.deal-logo-wrapper.top > a").f
 ```
 
 ## 2. Subscribe to all PayPal shopping deals
-PayPal Deals Page: https://www.paypal.com/shopping/
+1. Go to PayPal Deals Page: https://www.paypal.com/shopping/
+2. Go to "Console" tab in the developer tools of browser and paste the below
 ```js
 document.querySelectorAll('.css-ujbh5m-icon-button_base-secondary').forEach((e)=>e.click())
 ```
