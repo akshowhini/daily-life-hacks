@@ -7,7 +7,8 @@
 document.querySelectorAll("#bamdAvailableDeals div.deal-logo-wrapper.top > a").forEach(function (item, index) {item.click()});
 ```
 
-## 2. Subscribe to all PayPal [shopping deals]([url](https://www.paypal.com/shopping/))
+## 2. Subscribe to all PayPal shopping deals
+PayPal Deals Page: https://www.paypal.com/shopping/
 ```js
 document.querySelectorAll('.css-ujbh5m-icon-button_base-secondary').forEach((e)=>e.click())
 ```
